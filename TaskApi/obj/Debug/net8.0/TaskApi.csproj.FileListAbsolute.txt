@@ -1,0 +1,72 @@
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.staticwebassets.endpoints.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.exe
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.deps.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.runtimeconfig.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\TaskApi.pdb
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\scopedcss\bundle\TaskApi.styles.css
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskApi.props
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskApi.props
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskApi.props
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.csproj.Up2Date
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\refint\TaskApi.dll
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.pdb
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\TaskApi.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\TaskApi\TaskApi\obj\Debug\net8.0\ref\TaskApi.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\appsettings.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.staticwebassets.endpoints.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.exe
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.deps.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.runtimeconfig.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\TaskApi.pdb
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.csproj.AssemblyReference.cache
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.AssemblyInfoInputs.cache
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.AssemblyInfo.cs
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.csproj.CoreCompileInputs.cache
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\scopedcss\bundle\TaskApi.styles.css
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.TaskApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.build.TaskApi.props
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TaskApi.props
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TaskApi.props
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.csproj.Up2Date
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\refint\TaskApi.dll
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.pdb
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\TaskApi.genruntimeconfig.cache
+C:\Users\familia\Desktop\ProyectoC#\TaskApi Definitiva\TaskApi\obj\Debug\net8.0\ref\TaskApi.dll
