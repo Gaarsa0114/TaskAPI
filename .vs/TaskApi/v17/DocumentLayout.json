@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Projects\\TaskAPI-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Projects\\TaskAPI-main\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projects\\TaskAPI-main\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81BB2382-992D-4521-AF6C-BD0D8E3B30B4}|TaskApi\\TaskApi.csproj|c:\\projects\\taskapi-main\\taskapi\\controllers\\controladordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81BB2382-992D-4521-AF6C-BD0D8E3B30B4}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\controladordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Program.cs",
               "RelativeDocumentMoniker": "TaskApi\\Program.cs",
@@ -56,6 +64,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T17:33:14.066Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Projects\\TaskAPI-main\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-11T20:03:31.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -68,6 +89,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Projects\\TaskAPI-main\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-11T20:02:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TaskApi.http",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\TaskApi.http",
               "RelativeDocumentMoniker": "TaskApi\\TaskApi.http",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "TaskApi.csproj",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\TaskApi.csproj",
               "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
@@ -91,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ControladorDeTareas.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Controllers\\ControladorDeTareas.cs",
               "RelativeDocumentMoniker": "TaskApi\\Controllers\\ControladorDeTareas.cs",
@@ -99,12 +133,11 @@
               "RelativeToolTip": "TaskApi\\Controllers\\ControladorDeTareas.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAIwEEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T17:32:28.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T17:32:28.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "InMemoryTareaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Repositorios\\InMemoryTareaRepository.cs",
               "RelativeDocumentMoniker": "TaskApi\\Repositorios\\InMemoryTareaRepository.cs",
@@ -116,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ITareaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Repositorios\\ITareaRepository.cs",
               "RelativeDocumentMoniker": "TaskApi\\Repositorios\\ITareaRepository.cs",
@@ -128,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CreadorDeTareas.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Datos\\CreadorDeTareas.cs",
               "RelativeDocumentMoniker": "TaskApi\\Datos\\CreadorDeTareas.cs",
@@ -140,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Modelos\\Tarea.cs",
               "RelativeDocumentMoniker": "TaskApi\\Modelos\\Tarea.cs",

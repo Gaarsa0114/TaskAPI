@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projects\\TaskAPI-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Projects\\TaskAPI-main\\.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|NewFolder1{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:.editorconfig||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{81BB2382-992D-4521-AF6C-BD0D8E3B30B4}|TaskApi\\TaskApi.csproj|c:\\projects\\taskapi-main\\taskapi\\controllers\\controladordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81BB2382-992D-4521-AF6C-BD0D8E3B30B4}|TaskApi\\TaskApi.csproj|solutionrelative:taskapi\\controllers\\controladordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Program.cs",
               "RelativeDocumentMoniker": "TaskApi\\Program.cs",
@@ -58,6 +62,19 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\.editorconfig",
+              "RelativeDocumentMoniker": ".editorconfig",
+              "ToolTip": "C:\\Projects\\TaskAPI-main\\.editorconfig",
+              "RelativeToolTip": ".editorconfig",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-11T20:02:44.273Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskApi.http",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\TaskApi.http",
               "RelativeDocumentMoniker": "TaskApi\\TaskApi.http",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TaskApi.csproj",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\TaskApi.csproj",
               "RelativeDocumentMoniker": "TaskApi\\TaskApi.csproj",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ControladorDeTareas.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Controllers\\ControladorDeTareas.cs",
               "RelativeDocumentMoniker": "TaskApi\\Controllers\\ControladorDeTareas.cs",
@@ -104,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "InMemoryTareaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Repositorios\\InMemoryTareaRepository.cs",
               "RelativeDocumentMoniker": "TaskApi\\Repositorios\\InMemoryTareaRepository.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ITareaRepository.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Repositorios\\ITareaRepository.cs",
               "RelativeDocumentMoniker": "TaskApi\\Repositorios\\ITareaRepository.cs",
@@ -128,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CreadorDeTareas.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Datos\\CreadorDeTareas.cs",
               "RelativeDocumentMoniker": "TaskApi\\Datos\\CreadorDeTareas.cs",
@@ -140,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Projects\\TaskAPI-main\\TaskApi\\Modelos\\Tarea.cs",
               "RelativeDocumentMoniker": "TaskApi\\Modelos\\Tarea.cs",
