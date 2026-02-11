@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "TaskApi.Controllers.ControladorDeTareas",
+    "Method": "Completar",
+    "RelativePath": "api/ControladorDeTareas/{id}/completar actividad ",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskApi.Controllers.ControladorDeTareas",
+    "Method": "Crear",
+    "RelativePath": "api/ControladorDeTareas/Crear Tarea.",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TaskApi.Datos.CreadorDeTareas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TaskApi.Controllers.ControladorDeTareas",
+    "Method": "Ver",
+    "RelativePath": "api/ControladorDeTareas/Observar Tareas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
