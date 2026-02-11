@@ -54,8 +54,3 @@ Content-Type: application/json
   "descripcion": "Descripcion de la tarea"
 }
 
-Contribucion
-1.	Haz un fork del repositorio.
-2.	Crea una rama (git checkout -b feature/nueva-funcionalidad).
-3.	Realiza tus cambios y haz commit.
-4.	Envia un pull request.
